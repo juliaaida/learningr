@@ -1,8 +1,9 @@
 
 <!-- TODO: Add more to the title of your project here -->
-# {{ ProjectName }}
+#Learning R in DIfE 
+R and Git
 
-<!-- TODO: Give a brief description of what your project is about -->
+<!-- Explanations -->
 
 # Explanation of project folders and files
 
